@@ -1,0 +1,7 @@
+{
+  "name": "aria-range",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
